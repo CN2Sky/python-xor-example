@@ -1,0 +1,959 @@
+{
+    "apiVersion": "1.1.0",
+    "datasets": {
+        "1184d278-279b-11e7-a342-acbc32d35fbf": {
+            "alias": [
+                "/iterations"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SCALAR"
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": 500.0
+        },
+        "11851724-279b-11e7-b669-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_5/dense_5/bias"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                0.5535764694213867,
+                -0.16330955922603607,
+                0.00018753582844510674,
+                0.20639578998088837,
+                -0.43896880745887756,
+                -0.3902030289173126,
+                -0.000156094174599275,
+                0.4706740379333496,
+                -0.07481911778450012,
+                0.3690089285373688,
+                0.0005620119627565145,
+                -0.006005374249070883,
+                -0.060841478407382965,
+                -0.07165403664112091,
+                -0.0060052997432649136,
+                -0.15190966427326202
+            ]
+        },
+        "118528ae-279b-11e7-bc7d-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_5/dense_5/kernel"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    2,
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    -0.5533265471458435,
+                    -0.49177899956703186,
+                    -0.8308306932449341,
+                    0.18587630987167358,
+                    0.4390268921852112,
+                    0.3902888298034668,
+                    0.5337015986442566,
+                    -0.4953080415725708,
+                    -0.15833085775375366,
+                    -0.3688789904117584,
+                    -0.5162935853004456,
+                    -0.2939295470714569,
+                    0.04022632911801338,
+                    0.052819300442934036,
+                    -0.5028665661811829,
+                    -0.2984108328819275
+                ],
+                [
+                    -0.5544667840003967,
+                    0.14683513343334198,
+                    0.8308964371681213,
+                    -0.19405266642570496,
+                    0.857414722442627,
+                    0.6263940930366516,
+                    -0.5339314341545105,
+                    -0.4709467887878418,
+                    0.056514739990234375,
+                    -0.37091273069381714,
+                    0.5162190198898315,
+                    -0.3432331681251526,
+                    -0.49204346537590027,
+                    -0.1740218997001648,
+                    -0.20148465037345886,
+                    0.13615170121192932
+                ]
+            ]
+        },
+        "118563d2-279b-11e7-953b-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_6/dense_6/bias"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                0.381191223859787
+            ]
+        },
+        "1185810a-279b-11e7-9947-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_6/dense_6/kernel"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16,
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    -0.765583872795105
+                ],
+                [
+                    -0.4559866786003113
+                ],
+                [
+                    0.5476047396659851
+                ],
+                [
+                    -0.21977032721042633
+                ],
+                [
+                    -0.5887216925621033
+                ],
+                [
+                    -0.986727237701416
+                ],
+                [
+                    0.9359806180000305
+                ],
+                [
+                    -1.0157623291015625
+                ],
+                [
+                    -0.44994163513183594
+                ],
+                [
+                    -0.9295615553855896
+                ],
+                [
+                    0.9105609059333801
+                ],
+                [
+                    0.4627225399017334
+                ],
+                [
+                    -0.48269331455230713
+                ],
+                [
+                    -0.3446674644947052
+                ],
+                [
+                    0.30042725801467896
+                ],
+                [
+                    -0.33389583230018616
+                ]
+            ]
+        },
+        "1185a810-279b-11e7-aec0-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_1"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                -0.01417319942265749,
+                2.2271531936163626e-17,
+                -0.0017540843691676855,
+                0.0005809491849504411,
+                0.008297659456729889,
+                0.019819242879748344,
+                0.0006143279024399817,
+                -0.01556906383484602,
+                4.827581353172715e-22,
+                -0.009635763242840767,
+                -0.004079840611666441,
+                2.12411167937578e-26,
+                1.017314139848803e-22,
+                2.574878345351895e-22,
+                1.3791005012029724e-26,
+                5.199297920532178e-18
+            ]
+        },
+        "1185bea4-279b-11e7-94d3-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_2"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    2,
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    0.004441739059984684,
+                    0.0,
+                    0.008232996799051762,
+                    -7.55653964006342e-05,
+                    -0.010671501979231834,
+                    -0.01253165677189827,
+                    -0.006859084591269493,
+                    0.0,
+                    0.0,
+                    0.012805372476577759,
+                    0.009123725816607475,
+                    0.0,
+                    1.0175550895236937e-22,
+                    2.5750588367270097e-22,
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.004177257418632507,
+                    2.2271531936163626e-17,
+                    -0.009621900506317616,
+                    -0.0003161843924317509,
+                    -0.0008186930790543556,
+                    -0.0013966691913083196,
+                    0.024706970900297165,
+                    0.01477464847266674,
+                    4.827818137662026e-22,
+                    0.005293144378811121,
+                    -0.0207225289195776,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    5.199297920532178e-18
+                ]
+            ]
+        },
+        "1185d68c-279b-11e7-b70a-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_3"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                -0.0026345059741288424
+            ]
+        },
+        "1185ee7e-279b-11e7-9226-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_4"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16,
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    0.016516080126166344
+                ],
+                [
+                    -7.726647055960493e-19
+                ],
+                [
+                    -0.02729218639433384
+                ],
+                [
+                    -0.0007604860002174973
+                ],
+                [
+                    0.015353073365986347
+                ],
+                [
+                    0.013595780357718468
+                ],
+                [
+                    -0.01793750748038292
+                ],
+                [
+                    0.014007213525474072
+                ],
+                [
+                    -1.9334220325054366e-23
+                ],
+                [
+                    0.01097798254340887
+                ],
+                [
+                    -0.01688205450773239
+                ],
+                [
+                    0.0
+                ],
+                [
+                    -3.5897892520073785e-24
+                ],
+                [
+                    -1.3381425447158677e-23
+                ],
+                [
+                    0.0
+                ],
+                [
+                    -2.488560723650537e-19
+                ]
+            ]
+        },
+        "118604e2-279b-11e7-a744-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_5"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                0.00012361696281004697,
+                0.00010369631490902975,
+                6.286390998866409e-05,
+                5.740956112276763e-05,
+                2.887519985961262e-05,
+                0.0002052318159257993,
+                6.655039032921195e-05,
+                0.0002990695065818727,
+                3.9879614632809535e-05,
+                0.00019200857786927372,
+                0.00016342656454071403,
+                1.269162055450579e-07,
+                3.627843761933036e-05,
+                2.3813681764295325e-05,
+                5.350009502080866e-08,
+                5.528236579266377e-05
+            ]
+        },
+        "11861c14-279b-11e7-8627-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_6"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    2,
+                    16
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    4.435029404703528e-05,
+                    0.0,
+                    4.4494176108855754e-05,
+                    9.507093068350514e-08,
+                    1.933189923875034e-05,
+                    0.0002030904870480299,
+                    3.918963557225652e-05,
+                    0.0,
+                    0.0,
+                    0.00014231476234272122,
+                    0.00010827569349203259,
+                    0.0,
+                    3.684110924950801e-05,
+                    2.413120455457829e-05,
+                    0.0,
+                    0.0
+                ],
+                [
+                    1.3751067854173016e-05,
+                    0.00010435088915983215,
+                    4.41917400166858e-05,
+                    6.968902744119987e-05,
+                    1.7631067805723433e-07,
+                    2.643766947585391e-06,
+                    0.00017806090181693435,
+                    0.00010317328269593418,
+                    4.039771010866389e-05,
+                    3.3105246984632686e-05,
+                    0.00023612291261088103,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    5.56731283722911e-05
+                ]
+            ]
+        },
+        "11863258-279b-11e7-9a80-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_7"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                3.948146058974089e-06
+            ]
+        },
+        "11864934-279b-11e7-99ca-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights/param_8"
+            ],
+            "creationProperties": {
+                "allocTime": "H5D_ALLOC_TIME_LATE",
+                "fillTime": "H5D_FILL_TIME_IFSET",
+                "layout": {
+                    "class": "H5D_CONTIGUOUS"
+                }
+            },
+            "shape": {
+                "class": "H5S_SIMPLE",
+                "dims": [
+                    16,
+                    1
+                ]
+            },
+            "type": {
+                "base": "H5T_IEEE_F32LE",
+                "class": "H5T_FLOAT"
+            },
+            "value": [
+                [
+                    8.824931137496606e-05
+                ],
+                [
+                    1.3661665434483439e-05
+                ],
+                [
+                    0.00032639651908539236
+                ],
+                [
+                    4.322555105318315e-05
+                ],
+                [
+                    3.3566630008863285e-05
+                ],
+                [
+                    5.135678657097742e-05
+                ],
+                [
+                    5.779282219009474e-05
+                ],
+                [
+                    5.975556268822402e-05
+                ],
+                [
+                    1.0772731684483006e-06
+                ],
+                [
+                    3.591263521229848e-05
+                ],
+                [
+                    8.949114271672443e-05
+                ],
+                [
+                    0.0
+                ],
+                [
+                    5.011655730413622e-07
+                ],
+                [
+                    9.31451438646036e-07
+                ],
+                [
+                    0.0
+                ],
+                [
+                    1.1039196579076815e-05
+                ]
+            ]
+        }
+    },
+    "groups": {
+        "1183c862-279b-11e7-a5bf-acbc32d35fbf": {
+            "alias": [
+                "/"
+            ],
+            "attributes": [
+                {
+                    "name": "keras_version",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "2.0.2"
+                },
+                {
+                    "name": "backend",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "theano"
+                },
+                {
+                    "name": "model_config",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "{\"class_name\": \"Sequential\", \"config\": [{\"class_name\": \"Dense\", \"config\": {\"name\": \"dense_5\", \"trainable\": true, \"batch_input_shape\": [null, 2], \"dtype\": \"float32\", \"units\": 16, \"activation\": \"relu\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"VarianceScaling\", \"config\": {\"scale\": 1.0, \"mode\": \"fan_avg\", \"distribution\": \"uniform\", \"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}, {\"class_name\": \"Dense\", \"config\": {\"name\": \"dense_6\", \"trainable\": true, \"units\": 1, \"activation\": \"sigmoid\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"VarianceScaling\", \"config\": {\"scale\": 1.0, \"mode\": \"fan_avg\", \"distribution\": \"uniform\", \"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}]}"
+                },
+                {
+                    "name": "training_config",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "{\"optimizer_config\": {\"class_name\": \"Adam\", \"config\": {\"lr\": 0.0010000000474974513, \"beta_1\": 0.8999999761581421, \"beta_2\": 0.9990000128746033, \"decay\": 0.0, \"epsilon\": 1e-08}}, \"loss\": \"mean_squared_error\", \"metrics\": [\"binary_accuracy\"], \"sample_weight_mode\": null, \"loss_weights\": null}"
+                }
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1184d278-279b-11e7-a342-acbc32d35fbf",
+                    "title": "iterations"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "1184e682-279b-11e7-8a08-acbc32d35fbf",
+                    "title": "model_weights"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "1185941a-279b-11e7-9643-acbc32d35fbf",
+                    "title": "optimizer_weights"
+                }
+            ]
+        },
+        "1184e682-279b-11e7-8a08-acbc32d35fbf": {
+            "alias": [
+                "/model_weights"
+            ],
+            "attributes": [
+                {
+                    "name": "layer_names",
+                    "shape": {
+                        "class": "H5S_SIMPLE",
+                        "dims": [
+                            2
+                        ]
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": 7,
+                        "strPad": "H5T_STR_NULLPAD"
+                    },
+                    "value": [
+                        "dense_5",
+                        "dense_6"
+                    ]
+                },
+                {
+                    "name": "backend",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "theano"
+                },
+                {
+                    "name": "keras_version",
+                    "shape": {
+                        "class": "H5S_SCALAR"
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": "H5T_VARIABLE",
+                        "strPad": "H5T_STR_NULLTERM"
+                    },
+                    "value": "2.0.2"
+                }
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "1184f60c-279b-11e7-a2cc-acbc32d35fbf",
+                    "title": "dense_5"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "118538c6-279b-11e7-8cb1-acbc32d35fbf",
+                    "title": "dense_6"
+                }
+            ]
+        },
+        "1184f60c-279b-11e7-a2cc-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_5"
+            ],
+            "attributes": [
+                {
+                    "name": "weight_names",
+                    "shape": {
+                        "class": "H5S_SIMPLE",
+                        "dims": [
+                            2
+                        ]
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": 14,
+                        "strPad": "H5T_STR_NULLPAD"
+                    },
+                    "value": [
+                        "dense_5/kernel",
+                        "dense_5/bias"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "118505e8-279b-11e7-8b52-acbc32d35fbf",
+                    "title": "dense_5"
+                }
+            ]
+        },
+        "118505e8-279b-11e7-8b52-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_5/dense_5"
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "11851724-279b-11e7-b669-acbc32d35fbf",
+                    "title": "bias"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "118528ae-279b-11e7-bc7d-acbc32d35fbf",
+                    "title": "kernel"
+                }
+            ]
+        },
+        "118538c6-279b-11e7-8cb1-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_6"
+            ],
+            "attributes": [
+                {
+                    "name": "weight_names",
+                    "shape": {
+                        "class": "H5S_SIMPLE",
+                        "dims": [
+                            2
+                        ]
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": 14,
+                        "strPad": "H5T_STR_NULLPAD"
+                    },
+                    "value": [
+                        "dense_6/kernel",
+                        "dense_6/bias"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "groups",
+                    "id": "118549ec-279b-11e7-8210-acbc32d35fbf",
+                    "title": "dense_6"
+                }
+            ]
+        },
+        "118549ec-279b-11e7-8210-acbc32d35fbf": {
+            "alias": [
+                "/model_weights/dense_6/dense_6"
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "118563d2-279b-11e7-953b-acbc32d35fbf",
+                    "title": "bias"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1185810a-279b-11e7-9947-acbc32d35fbf",
+                    "title": "kernel"
+                }
+            ]
+        },
+        "1185941a-279b-11e7-9643-acbc32d35fbf": {
+            "alias": [
+                "/optimizer_weights"
+            ],
+            "attributes": [
+                {
+                    "name": "weight_names",
+                    "shape": {
+                        "class": "H5S_SIMPLE",
+                        "dims": [
+                            9
+                        ]
+                    },
+                    "type": {
+                        "charSet": "H5T_CSET_ASCII",
+                        "class": "H5T_STRING",
+                        "length": 11,
+                        "strPad": "H5T_STR_NULLPAD"
+                    },
+                    "value": [
+                        "/iterations",
+                        "param_1",
+                        "param_2",
+                        "param_3",
+                        "param_4",
+                        "param_5",
+                        "param_6",
+                        "param_7",
+                        "param_8"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1185a810-279b-11e7-aec0-acbc32d35fbf",
+                    "title": "param_1"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1185bea4-279b-11e7-94d3-acbc32d35fbf",
+                    "title": "param_2"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1185d68c-279b-11e7-b70a-acbc32d35fbf",
+                    "title": "param_3"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "1185ee7e-279b-11e7-9226-acbc32d35fbf",
+                    "title": "param_4"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "118604e2-279b-11e7-a744-acbc32d35fbf",
+                    "title": "param_5"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "11861c14-279b-11e7-8627-acbc32d35fbf",
+                    "title": "param_6"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "11863258-279b-11e7-9a80-acbc32d35fbf",
+                    "title": "param_7"
+                },
+                {
+                    "class": "H5L_TYPE_HARD",
+                    "collection": "datasets",
+                    "id": "11864934-279b-11e7-99ca-acbc32d35fbf",
+                    "title": "param_8"
+                }
+            ]
+        }
+    },
+    "root": "1183c862-279b-11e7-a5bf-acbc32d35fbf"
+}

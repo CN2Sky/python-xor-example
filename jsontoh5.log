@@ -1,0 +1,2134 @@
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: modelsss.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([c714a934-2795-11e7-9569-acbc32d35fbf]
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+selection shape:()
+setDataProp([c714f7b8-2795-11e7-9e55-acbc32d35fbf]
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7150a3a-2795-11e7-ba64-acbc32d35fbf]
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c7154fcc-2795-11e7-9adc-acbc32d35fbf]
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c71567c0-2795-11e7-9913-acbc32d35fbf]
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c7159a74-2795-11e7-98b9-acbc32d35fbf]
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c715b9e6-2795-11e7-a48f-acbc32d35fbf]
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c715d5e8-2795-11e7-903a-acbc32d35fbf]
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c715e9a2-2795-11e7-a147-acbc32d35fbf]
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([c715fcb4-2795-11e7-8cf1-acbc32d35fbf]
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([c7160fc2-2795-11e7-b54a-acbc32d35fbf]
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([c71623cc-2795-11e7-af08-acbc32d35fbf]
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([c716386c-2795-11e7-8d6c-acbc32d35fbf]
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714a934-2795-11e7-9569-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getGroupObjByUuid(c713ab38-2795-11e7-9490-acbc32d35fbf)
+getDatasetObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getGroupObjByUuid(c714c270-2795-11e7-aaaf-acbc32d35fbf)
+getDatasetObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getGroupObjByUuid(c714d42c-2795-11e7-b90e-acbc32d35fbf)
+getDatasetObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c714f7b8-2795-11e7-9e55-acbc32d35fbf)
+getGroupObjByUuid(c714e548-2795-11e7-bbe1-acbc32d35fbf)
+getDatasetObjByUuid(c7150a3a-2795-11e7-ba64-acbc32d35fbf)
+getGroupObjByUuid(c71522f6-2795-11e7-a552-acbc32d35fbf)
+getDatasetObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c7154fcc-2795-11e7-9adc-acbc32d35fbf)
+getGroupObjByUuid(c7153806-2795-11e7-b871-acbc32d35fbf)
+getDatasetObjByUuid(c71567c0-2795-11e7-9913-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7159a74-2795-11e7-98b9-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715b9e6-2795-11e7-a48f-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715d5e8-2795-11e7-903a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715e9a2-2795-11e7-a147-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c715fcb4-2795-11e7-8cf1-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c7160fc2-2795-11e7-b54a-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c71623cc-2795-11e7-af08-acbc32d35fbf)
+getGroupObjByUuid(c7157d34-2795-11e7-b456-acbc32d35fbf)
+getDatasetObjByUuid(c716386c-2795-11e7-8d6c-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([8fdcf15c-2799-11e7-9cf1-acbc32d35fbf]
+getDatasetObjByUuid(8fdcf15c-2799-11e7-9cf1-acbc32d35fbf)
+selection shape:()
+setDataProp([8fdd413e-2799-11e7-815d-acbc32d35fbf]
+getDatasetObjByUuid(8fdd413e-2799-11e7-815d-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([8fdd5658-2799-11e7-a753-acbc32d35fbf]
+getDatasetObjByUuid(8fdd5658-2799-11e7-a753-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([8fdd8cde-2799-11e7-a6e2-acbc32d35fbf]
+getDatasetObjByUuid(8fdd8cde-2799-11e7-a6e2-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([8fdd9fba-2799-11e7-a6db-acbc32d35fbf]
+getDatasetObjByUuid(8fdd9fba-2799-11e7-a6db-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([8fddc438-2799-11e7-92ba-acbc32d35fbf]
+getDatasetObjByUuid(8fddc438-2799-11e7-92ba-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([8fdde31e-2799-11e7-817c-acbc32d35fbf]
+getDatasetObjByUuid(8fdde31e-2799-11e7-817c-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([8fddfcb4-2799-11e7-af80-acbc32d35fbf]
+getDatasetObjByUuid(8fddfcb4-2799-11e7-af80-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([8fde1a9e-2799-11e7-8819-acbc32d35fbf]
+getDatasetObjByUuid(8fde1a9e-2799-11e7-8819-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([8fde317a-2799-11e7-a5c0-acbc32d35fbf]
+getDatasetObjByUuid(8fde317a-2799-11e7-a5c0-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([8fde4cd2-2799-11e7-8576-acbc32d35fbf]
+getDatasetObjByUuid(8fde4cd2-2799-11e7-8576-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([8fde6a3a-2799-11e7-9ed8-acbc32d35fbf]
+getDatasetObjByUuid(8fde6a3a-2799-11e7-9ed8-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([8fde7f06-2799-11e7-abdc-acbc32d35fbf]
+getDatasetObjByUuid(8fde7f06-2799-11e7-abdc-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(8fdbcda4-2799-11e7-aece-acbc32d35fbf)
+getDatasetObjByUuid(8fdcf15c-2799-11e7-9cf1-acbc32d35fbf)
+getGroupObjByUuid(8fdbcda4-2799-11e7-aece-acbc32d35fbf)
+getDatasetObjByUuid(8fdd05ac-2799-11e7-acf1-acbc32d35fbf)
+getGroupObjByUuid(8fdd05ac-2799-11e7-acf1-acbc32d35fbf)
+getGroupObjByUuid(8fdbcda4-2799-11e7-aece-acbc32d35fbf)
+getDatasetObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getGroupObjByUuid(8fdd05ac-2799-11e7-acf1-acbc32d35fbf)
+getDatasetObjByUuid(8fdd17b8-2799-11e7-9aba-acbc32d35fbf)
+getGroupObjByUuid(8fdd17b8-2799-11e7-9aba-acbc32d35fbf)
+getGroupObjByUuid(8fdd05ac-2799-11e7-acf1-acbc32d35fbf)
+getDatasetObjByUuid(8fdd6812-2799-11e7-b73b-acbc32d35fbf)
+getGroupObjByUuid(8fdd6812-2799-11e7-b73b-acbc32d35fbf)
+getGroupObjByUuid(8fdd17b8-2799-11e7-9aba-acbc32d35fbf)
+getDatasetObjByUuid(8fdd2adc-2799-11e7-8eea-acbc32d35fbf)
+getGroupObjByUuid(8fdd2adc-2799-11e7-8eea-acbc32d35fbf)
+getGroupObjByUuid(8fdd2adc-2799-11e7-8eea-acbc32d35fbf)
+getDatasetObjByUuid(8fdd413e-2799-11e7-815d-acbc32d35fbf)
+getGroupObjByUuid(8fdd2adc-2799-11e7-8eea-acbc32d35fbf)
+getDatasetObjByUuid(8fdd5658-2799-11e7-a753-acbc32d35fbf)
+getGroupObjByUuid(8fdd6812-2799-11e7-b73b-acbc32d35fbf)
+getDatasetObjByUuid(8fdd7a50-2799-11e7-ab75-acbc32d35fbf)
+getGroupObjByUuid(8fdd7a50-2799-11e7-ab75-acbc32d35fbf)
+getGroupObjByUuid(8fdd7a50-2799-11e7-ab75-acbc32d35fbf)
+getDatasetObjByUuid(8fdd8cde-2799-11e7-a6e2-acbc32d35fbf)
+getGroupObjByUuid(8fdd7a50-2799-11e7-ab75-acbc32d35fbf)
+getDatasetObjByUuid(8fdd9fba-2799-11e7-a6db-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fddc438-2799-11e7-92ba-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fdde31e-2799-11e7-817c-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fddfcb4-2799-11e7-af80-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fde1a9e-2799-11e7-8819-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fde317a-2799-11e7-a5c0-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fde4cd2-2799-11e7-8576-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fde6a3a-2799-11e7-9ed8-acbc32d35fbf)
+getGroupObjByUuid(8fddb134-2799-11e7-b823-acbc32d35fbf)
+getDatasetObjByUuid(8fde7f06-2799-11e7-abdc-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([d582e158-2799-11e7-ae1b-acbc32d35fbf]
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+selection shape:()
+setDataProp([d5833f0c-2799-11e7-8945-acbc32d35fbf]
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5835822-2799-11e7-bf6e-acbc32d35fbf]
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5839364-2799-11e7-8a96-acbc32d35fbf]
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d583a7f0-2799-11e7-b56c-acbc32d35fbf]
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d583d464-2799-11e7-8169-acbc32d35fbf]
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d583ed28-2799-11e7-9351-acbc32d35fbf]
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5840268-2799-11e7-aeec-acbc32d35fbf]
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5841a28-2799-11e7-8b6b-acbc32d35fbf]
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d584308a-2799-11e7-917f-acbc32d35fbf]
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5844390-2799-11e7-bc2b-acbc32d35fbf]
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d58457c2-2799-11e7-8e1a-acbc32d35fbf]
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5846b90-2799-11e7-b553-acbc32d35fbf]
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getDatasetObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getDatasetObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([d582e158-2799-11e7-ae1b-acbc32d35fbf]
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+selection shape:()
+setDataProp([d5833f0c-2799-11e7-8945-acbc32d35fbf]
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5835822-2799-11e7-bf6e-acbc32d35fbf]
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5839364-2799-11e7-8a96-acbc32d35fbf]
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d583a7f0-2799-11e7-b56c-acbc32d35fbf]
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d583d464-2799-11e7-8169-acbc32d35fbf]
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d583ed28-2799-11e7-9351-acbc32d35fbf]
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5840268-2799-11e7-aeec-acbc32d35fbf]
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5841a28-2799-11e7-8b6b-acbc32d35fbf]
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d584308a-2799-11e7-917f-acbc32d35fbf]
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5844390-2799-11e7-bc2b-acbc32d35fbf]
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d58457c2-2799-11e7-8e1a-acbc32d35fbf]
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5846b90-2799-11e7-b553-acbc32d35fbf]
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getDatasetObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getDatasetObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([d582e158-2799-11e7-ae1b-acbc32d35fbf]
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+selection shape:()
+setDataProp([d5833f0c-2799-11e7-8945-acbc32d35fbf]
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5835822-2799-11e7-bf6e-acbc32d35fbf]
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5839364-2799-11e7-8a96-acbc32d35fbf]
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d583a7f0-2799-11e7-b56c-acbc32d35fbf]
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d583d464-2799-11e7-8169-acbc32d35fbf]
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d583ed28-2799-11e7-9351-acbc32d35fbf]
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d5840268-2799-11e7-aeec-acbc32d35fbf]
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5841a28-2799-11e7-8b6b-acbc32d35fbf]
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([d584308a-2799-11e7-917f-acbc32d35fbf]
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([d5844390-2799-11e7-bc2b-acbc32d35fbf]
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([d58457c2-2799-11e7-8e1a-acbc32d35fbf]
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([d5846b90-2799-11e7-b553-acbc32d35fbf]
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582e158-2799-11e7-ae1b-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getGroupObjByUuid(d5819d02-2799-11e7-b93a-acbc32d35fbf)
+getDatasetObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getGroupObjByUuid(d582f4c2-2799-11e7-b887-acbc32d35fbf)
+getDatasetObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getGroupObjByUuid(d5830eba-2799-11e7-9205-acbc32d35fbf)
+getDatasetObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5833f0c-2799-11e7-8945-acbc32d35fbf)
+getGroupObjByUuid(d5832606-2799-11e7-b76d-acbc32d35fbf)
+getDatasetObjByUuid(d5835822-2799-11e7-bf6e-acbc32d35fbf)
+getGroupObjByUuid(d5836d46-2799-11e7-aac2-acbc32d35fbf)
+getDatasetObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d5839364-2799-11e7-8a96-acbc32d35fbf)
+getGroupObjByUuid(d5837f5a-2799-11e7-ae95-acbc32d35fbf)
+getDatasetObjByUuid(d583a7f0-2799-11e7-b56c-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583d464-2799-11e7-8169-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d583ed28-2799-11e7-9351-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5840268-2799-11e7-aeec-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5841a28-2799-11e7-8b6b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d584308a-2799-11e7-917f-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5844390-2799-11e7-bc2b-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d58457c2-2799-11e7-8e1a-acbc32d35fbf)
+getGroupObjByUuid(d583bdba-2799-11e7-b252-acbc32d35fbf)
+getDatasetObjByUuid(d5846b90-2799-11e7-b553-acbc32d35fbf)
+Hdf5db __exit
+init -- filePath: model.h5 mode: r+
+Hdf5db __enter
+initializing file
+setDataProp([1184d278-279b-11e7-a342-acbc32d35fbf]
+getDatasetObjByUuid(1184d278-279b-11e7-a342-acbc32d35fbf)
+selection shape:()
+setDataProp([11851724-279b-11e7-b669-acbc32d35fbf]
+getDatasetObjByUuid(11851724-279b-11e7-b669-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([118528ae-279b-11e7-bc7d-acbc32d35fbf]
+getDatasetObjByUuid(118528ae-279b-11e7-bc7d-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([118563d2-279b-11e7-953b-acbc32d35fbf]
+getDatasetObjByUuid(118563d2-279b-11e7-953b-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([1185810a-279b-11e7-9947-acbc32d35fbf]
+getDatasetObjByUuid(1185810a-279b-11e7-9947-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([1185a810-279b-11e7-aec0-acbc32d35fbf]
+getDatasetObjByUuid(1185a810-279b-11e7-aec0-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([1185bea4-279b-11e7-94d3-acbc32d35fbf]
+getDatasetObjByUuid(1185bea4-279b-11e7-94d3-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([1185d68c-279b-11e7-b70a-acbc32d35fbf]
+getDatasetObjByUuid(1185d68c-279b-11e7-b70a-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([1185ee7e-279b-11e7-9226-acbc32d35fbf]
+getDatasetObjByUuid(1185ee7e-279b-11e7-9226-acbc32d35fbf)
+selection shape:(16, 1)
+setDataProp([118604e2-279b-11e7-a744-acbc32d35fbf]
+getDatasetObjByUuid(118604e2-279b-11e7-a744-acbc32d35fbf)
+selection shape:(16,)
+setDataProp([11861c14-279b-11e7-8627-acbc32d35fbf]
+getDatasetObjByUuid(11861c14-279b-11e7-8627-acbc32d35fbf)
+selection shape:(2, 16)
+setDataProp([11863258-279b-11e7-9a80-acbc32d35fbf]
+getDatasetObjByUuid(11863258-279b-11e7-9a80-acbc32d35fbf)
+selection shape:(1,)
+setDataProp([11864934-279b-11e7-99ca-acbc32d35fbf]
+getDatasetObjByUuid(11864934-279b-11e7-99ca-acbc32d35fbf)
+selection shape:(16, 1)
+createAttribute: [keras_version]
+createAttribute: [backend]
+createAttribute: [model_config]
+createAttribute: [training_config]
+createAttribute: [layer_names]
+createAttribute: [backend]
+createAttribute: [keras_version]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+createAttribute: [weight_names]
+getGroupObjByUuid(1183c862-279b-11e7-a5bf-acbc32d35fbf)
+getDatasetObjByUuid(1184d278-279b-11e7-a342-acbc32d35fbf)
+getGroupObjByUuid(1183c862-279b-11e7-a5bf-acbc32d35fbf)
+getDatasetObjByUuid(1184e682-279b-11e7-8a08-acbc32d35fbf)
+getGroupObjByUuid(1184e682-279b-11e7-8a08-acbc32d35fbf)
+getGroupObjByUuid(1183c862-279b-11e7-a5bf-acbc32d35fbf)
+getDatasetObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getGroupObjByUuid(1184e682-279b-11e7-8a08-acbc32d35fbf)
+getDatasetObjByUuid(1184f60c-279b-11e7-a2cc-acbc32d35fbf)
+getGroupObjByUuid(1184f60c-279b-11e7-a2cc-acbc32d35fbf)
+getGroupObjByUuid(1184e682-279b-11e7-8a08-acbc32d35fbf)
+getDatasetObjByUuid(118538c6-279b-11e7-8cb1-acbc32d35fbf)
+getGroupObjByUuid(118538c6-279b-11e7-8cb1-acbc32d35fbf)
+getGroupObjByUuid(1184f60c-279b-11e7-a2cc-acbc32d35fbf)
+getDatasetObjByUuid(118505e8-279b-11e7-8b52-acbc32d35fbf)
+getGroupObjByUuid(118505e8-279b-11e7-8b52-acbc32d35fbf)
+getGroupObjByUuid(118505e8-279b-11e7-8b52-acbc32d35fbf)
+getDatasetObjByUuid(11851724-279b-11e7-b669-acbc32d35fbf)
+getGroupObjByUuid(118505e8-279b-11e7-8b52-acbc32d35fbf)
+getDatasetObjByUuid(118528ae-279b-11e7-bc7d-acbc32d35fbf)
+getGroupObjByUuid(118538c6-279b-11e7-8cb1-acbc32d35fbf)
+getDatasetObjByUuid(118549ec-279b-11e7-8210-acbc32d35fbf)
+getGroupObjByUuid(118549ec-279b-11e7-8210-acbc32d35fbf)
+getGroupObjByUuid(118549ec-279b-11e7-8210-acbc32d35fbf)
+getDatasetObjByUuid(118563d2-279b-11e7-953b-acbc32d35fbf)
+getGroupObjByUuid(118549ec-279b-11e7-8210-acbc32d35fbf)
+getDatasetObjByUuid(1185810a-279b-11e7-9947-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(1185a810-279b-11e7-aec0-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(1185bea4-279b-11e7-94d3-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(1185d68c-279b-11e7-b70a-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(1185ee7e-279b-11e7-9226-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(118604e2-279b-11e7-a744-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(11861c14-279b-11e7-8627-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(11863258-279b-11e7-9a80-acbc32d35fbf)
+getGroupObjByUuid(1185941a-279b-11e7-9643-acbc32d35fbf)
+getDatasetObjByUuid(11864934-279b-11e7-99ca-acbc32d35fbf)
+Hdf5db __exit
